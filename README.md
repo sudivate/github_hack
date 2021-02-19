@@ -16,7 +16,7 @@ The outcome of each scenario will depend on the specific scenario, but should be
 * Set up GitHub Enterprise 3.x RC server for use
   
   * We will have a server VM ready for folks to use if their scenario doesn't include install or they would like to jump into their scenario (ie security)
-  
+
   * Folks can still provision their own GHE VM and for folks focused on Scenario 3, it's recommended they go through the install process.
 
 * Define Target Azure Sub and provision SP's.
@@ -56,6 +56,18 @@ The teams were allocated randomly, mixing folks form Richard and David's teams. 
 * David
 * Dariusz
 * Engin
+
+## Proposed Schedule
+
+This is a rough schedule, folks can adjust as needed.
+
+| Time               | Description   |
+| ------------------ | ------------- |
+| 09:00am - 09:30am  | Kickoff       |
+| 09:30am - 12:00pm  | hacking       |
+| 12:00pm - 01:00pm  | Lunch         |
+| 01:00pm - 01:15pm  | Team Check-in |
+| 01:15pm - 05:00pm  | hacking       |
 
 ## Scenarios
 
