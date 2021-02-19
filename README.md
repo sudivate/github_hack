@@ -13,6 +13,12 @@ The outcome of each scenario will depend on the specific scenario, but should be
 
 ## Pre-Requisites
 
+* Set up GitHub Enterprise 3.x RC server for use
+  
+  * We will have a server VM ready for folks to use if their scenario doesn't include install or they would like to jump into their scenario (ie security)
+  
+  * Folks can still provision their own GHE VM and for folks focused on Scenario 3, it's recommended they go through the install process.
+
 * Define Target Azure Sub and provision SP's.
 * Confirm Teams and adjust as needed.
 * Teams/Participants register for Enterprise cloud and server licenses.
