@@ -71,12 +71,12 @@ This is a rough schedule, folks can adjust as needed.
 
 ## Scenarios
 
-### 1. Secrets Management & Rotation
+### 1. Secrets Management & Rotation (Eugene / Hattan)
 
 * KeyVault integration vs Repo Secrets
 * PAT generation and rotation
 
-### 2. Security Scanning and Alerting
+### 2. Security Scanning and Alerting (Richard / Bryan)
 
 * Security and Key Scanning on GHE Server
 * Pick up secrets on check-in
@@ -90,8 +90,8 @@ This is a rough schedule, folks can adjust as needed.
 * Enterprise Server with Hosted Agents (Hybrid Test Drive)
 * Arm / Terraform template for GHE Server 3.0.0 RC
 
-## 4. Feature Parity , Documentation & Examples
-
+## 4. Feature Parity , Documentation & Examples (David / Engin / Tom)
+  Update: Focus on Agents across a variety of SKUs.
 * Differences between GH SKUs (Public, Enterprise Cloud and Enterprise Server)
 * General Actions Support on GHE Server
 * Do Codespaces work on GHE Server ?
@@ -100,7 +100,7 @@ This is a rough schedule, folks can adjust as needed.
 * Github Packages (Private Packages not shared with the general public)
 * GH Mobile and Desktop App support across all SKUs (Apps - GitHub Docs)
 
-## 5. Observability/Enterpriseness
+## 5. Observability/Enterpriseness (Sushant / Brent)
 
 * Alerting: What are the options ?
 * Enterprise Auditing
